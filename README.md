@@ -1,6 +1,6 @@
 # Adrian Anaya L
 
-![Foto](Adrian.jpg)
+![Foto](Adrian/adrian.jpg)
 
 ## Rol
 Arte y Diseño
