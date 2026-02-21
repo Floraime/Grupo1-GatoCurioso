@@ -37,3 +37,20 @@ Tecnólogo en producción multimedia, con experiencia laboral en edición de ví
 **Ubicación:** Barranquilla, Atlántico  
 **Perfil:**  
 Actualmente me encuentro trabajando como QA Engineer, realizando pruebas a aplicaciones fitness para iOS, Android y plataformas web. Mi labor se enfoca en garantizar la calidad del producto, identificar errores y mejorar la experiencia del usuario en diferentes dispositivos y entornos. Además, estudio Ingeniería Multimedia, donde desarrollo habilidades en diseño interactivo, experiencias digitales y desarrollo de videojuegos.
+
+---
+
+## Kellyn Parra
+
+![Foto personal](Kellyn/foto.jpg)
+
+**Rol:** Diseñadora sonora para videojuegos  
+**Ubicación:** Barranquilla, Colombia  
+
+### Perfil
+Soy una apasionada del sonido y la creación, con más de 10 años entre consolas, cables, ondas y voces. Hoy tengo el privilegio de ser Coordinadora Técnica y de Audio en Uninorte FM Estéreo, donde lidero la magia que suena al aire, desde la operación técnica y la automatización de programación, hasta la producción sonora que conecta con la audiencia.
+
+Mi camino ha pasado por estudios de grabación, transmisiones en vivo, postproducción, diseño de flujos de señal y la integración de lo análogo con lo digital. He logrado optimizar procesos de acústica, configuración de software de audio y DSP, diseño y setting de flujo de señal para estudios de grabación y grupos musicales. Me encanta optimizar procesos, encontrar soluciones creativas y formar equipos que hagan sonar bien las ideas.
+
+### Plato favorito
+![Plato favorito](Kellyn/salchipapa.jpg)
